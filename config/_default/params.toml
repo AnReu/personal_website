@@ -1,0 +1,21 @@
+title = "Anja Reusch"
+author = "Anja Reusch"
+description = "Postdoc @ Technion"
+profilePicture = "images/IMG_0992_cropped.png"
+keywords = ""
+favicon = "favicons/"
+
+[[socialIcons]]
+icon = "fa-brands fa-linkedin"
+title = "Linkedin"
+url = "https://de.linkedin.com/in/anja-reusch/en"
+
+[[socialIcons]]
+icon = "fa-brands fa-bluesky"
+title = "Bluesky"
+url = "https://bsky.app/profile/anja-re.bsky.social"
+
+[[socialIcons]]
+icon = "fa-solid fa-envelope"
+title = "e-mail"
+url = "mailto:anja@campus.technion.ac.il"

@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = 'Anja Reusch | Personal Website'
+theme = 'anatole'
+enableEmoji = true
